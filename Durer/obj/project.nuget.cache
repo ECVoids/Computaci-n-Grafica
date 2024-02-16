@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3m9EQH2HL9T8vS8kk8+0wfs+1e9efvKouOQSujL9JrrTQGvKnUWwVtoDUtxgFG+FoBJdUz4XqxN4Y3S3LPvo6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santy\\OneDrive\\Escritorio\\Grafico\\Durer\\Durer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santy\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512"
+  ],
+  "logs": []
+}
